@@ -64,7 +64,7 @@ while (izbor != "e")
             }
             else
             {
-                Console.WriteLine("Ne uspeshno napravena transakciq!Skibidi mazna brato seshash se?");
+                Console.WriteLine("Ne uspeshno napravena transakciq!");
             }
             break;
         case "3":
