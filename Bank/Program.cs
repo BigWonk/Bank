@@ -60,11 +60,11 @@ while (izbor != "e")
             parite.Add(pari);
             if (pari < balance)
             {
-                Console.WriteLine("Uspeshno napravena transakciq!");
+                Console.WriteLine("Uspeshno napravena transakciq! ");
             }
             else
             {
-                Console.WriteLine("Ne uspeshno napravena transakciq!");
+                Console.WriteLine("Ne uspeshno napravena transakciq!Skibidi mazna brato seshash se?");
             }
             break;
         case "3":
