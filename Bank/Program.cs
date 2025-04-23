@@ -61,6 +61,7 @@ while (izbor != "e")
             if (pari < balance)
             {
                 Console.WriteLine("Uspeshno napravena transakciq!");
+                balance -= pari;
             }
             else
             {
