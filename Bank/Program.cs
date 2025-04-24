@@ -65,7 +65,7 @@ while (izbor != "e")
             }
             else
             {
-                Console.WriteLine("Ne uspeshno napravena transakciq!");
+                Console.WriteLine("Ne uspeshno napravena transakciq!(nqma dostatuchno pari v balansa)");
             }
             break;
         case "3":
